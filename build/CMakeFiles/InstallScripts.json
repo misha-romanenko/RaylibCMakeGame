@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/run/media/configg_/HDD/RaylibGame/build/cmake_install.cmake",
+		"/run/media/configg_/HDD/RaylibGame/build/raylib/cmake_install.cmake",
+		"/run/media/configg_/HDD/RaylibGame/build/raylib/raylib/cmake_install.cmake",
+		"/run/media/configg_/HDD/RaylibGame/build/raylib/raylib/external/glfw/cmake_install.cmake",
+		"/run/media/configg_/HDD/RaylibGame/build/raylib/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
